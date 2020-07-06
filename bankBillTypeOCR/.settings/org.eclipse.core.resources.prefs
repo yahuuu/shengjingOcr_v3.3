@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//commond/InpaintLine.py=utf-8
+encoding//commond/ocrImg.py=utf-8
+encoding//commond/utils.py=utf-8
+encoding//test/billTest/selectImgeDir.py=utf-8
+encoding//test/billTest/specifiedImgRegion.py=utf-8
+encoding//test/billTyTitleOCRTest.py=utf-8
+encoding//test/test.py=utf-8
+encoding//test/test2.py=utf-8
+encoding//title_TY/billTyTitleOCR.py=utf-8
+encoding//title_zyType/billTyTitleOCR.py=utf-8
+encoding//title_zyType/billTyTitleOCRInterface.py=utf-8

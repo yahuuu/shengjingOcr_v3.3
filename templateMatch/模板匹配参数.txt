@@ -1,0 +1,4 @@
+model:
+	灰度图 threshold = 0.6
+	zhczhqdqchxcd_tmpl.png:整存整取定期储蓄存单
+	zhczhqtzhchxcd_tmpl.png:整存整取特种储蓄存单
