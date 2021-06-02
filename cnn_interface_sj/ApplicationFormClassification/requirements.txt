@@ -32,7 +32,7 @@ tensorboard==1.9.0
 torch==1.1.0
 torchsummary==1.5.1
 torchvision==0.2.0
-urllib3==1.25.7
+urllib3==1.26.5
 web.py==0.40.dev1
 Werkzeug==0.15.5
 # python3.6.2
